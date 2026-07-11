@@ -18,6 +18,7 @@ class EntityType(StrEnum):
     ITEM = "item"
     SYSTEM = "system"
     RUNE = "rune"
+    SKIN = "skin"
     OTHER = "other"
 
 
